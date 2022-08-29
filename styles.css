@@ -55,3 +55,15 @@ body {
 .services {
     color: #fff;
 }
+
+footer {
+    color: #fff;
+    font-size: 1rem;
+    margin: 0;
+    padding: 1rem;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
